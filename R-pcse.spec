@@ -4,7 +4,7 @@
 #
 Name     : R-pcse
 Version  : 1.9.1.1
-Release  : 36
+Release  : 37
 URL      : https://cran.r-project.org/src/contrib/pcse_1.9.1.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/pcse_1.9.1.1.tar.gz
 Summary  : Panel-Corrected Standard Error Estimation in R
